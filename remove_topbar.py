@@ -1,3 +1,5 @@
+# https://stackoverflow.com/questions/30786337/tkinter-windows-how-to-view-window-in-windows-task-bar-which-has-no-title-bar/30819099#30819099
+
 from ctypes import windll
 
 class RemoveTopBar:
