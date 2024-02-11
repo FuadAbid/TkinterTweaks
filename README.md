@@ -17,6 +17,11 @@ relief = flat
 highlightbackground=bd_color
 highlightthickness=bd_thickness
 ```
+## Frame
+```
+highlightbackground=bd_color
+highlightthickness=bd_thickness
+```
 ## ProgressBar
 ```
 from tkinter import ttk
